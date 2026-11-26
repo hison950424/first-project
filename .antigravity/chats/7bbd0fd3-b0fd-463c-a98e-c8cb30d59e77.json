@@ -4,5 +4,18 @@
   "createdAt": "2026-11-26T13:16:35.251Z",
   "filename": "7bbd0fd3-b0fd-463c-a98e-c8cb30d59e77.json",
   "geminiStarted": false,
-  "messages": []
+  "messages": [
+    {
+      "id": "0033abf9-884e-4501-8655-9357319da565",
+      "role": "user",
+      "content": "為什麼我這裡無法登入google",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-26T13:24:16.730Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
